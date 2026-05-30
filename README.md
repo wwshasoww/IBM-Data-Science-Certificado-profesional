@@ -40,3 +40,4 @@ SKILLS:
   - Pipelines
 
 La conclusion final es un curso con los cuales adquirí dominio los conocimientos prácticos más actualizados que los científicos de datos utilizan en su trabajo diario, los lenguajes y las bibliotecas que utilizan los científicos de datos profesionales, incluidos Python y SQL, Importe y limpie conjuntos de datos, analice y visualice datos, y construya modelos y canalizaciones de aprendizaje automático y Aplique sus nuevos conocimientos a proyectos del mundo real y cree una cartera de proyectos de datos.
+https://coursera.org/share/b26779a9a2e5ce5c463982163ff78ff9
